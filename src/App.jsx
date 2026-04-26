@@ -3,7 +3,7 @@ const { useState, useEffect } = React;
 function Hero() {
   return (
     <section className="max-w-7xl mx-auto px-6 py-32 text-center">
-      <h1 className="text-8xl tracking-tight font-semibold mb-8">Revolutionize Your Workflow</h1>
+      <h1 className="text-8xl tracking-tight font-semibold mb-8 text-pink-500">Revolutionize Your Workflow</h1>
       <p className="text-lg leading-relaxed text-neutral-400 mb-16">Experience the next generation of innovation and teamwork.
       Our technology empowers the way you work and grow.</p>
       <img src="https://images.unsplash.com/photo-1533738368-bd53ae212529?w=1600&q=80&auto=format&fit=crop" alt="innovation" className="rounded-2xl mb-16 w-full" />
